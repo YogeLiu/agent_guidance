@@ -11,14 +11,10 @@
             "id": "094e71051b7a992a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agent-Learning/Week-01_2026-04-20.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Week-01_2026-04-20"
+              "title": "新标签页"
             }
           }
         ]
@@ -184,5 +180,52 @@
     }
   },
   "active": "094e71051b7a992a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "content/index.md",
+    "public/static/giscus/light.css",
+    "public/static/giscus/dark.css",
+    "public/Agent-Learning/Topics/index.html",
+    "public/Agent-Learning/Topics/Tool-System.html",
+    "public/Agent-Learning/Topics/Tool-System-og-image.webp",
+    "public/Agent-Learning/Topics/Reuse-Transfer.html",
+    "public/Agent-Learning/Topics/Reuse-Transfer-og-image.webp",
+    "public/Agent-Learning/Topics/Reflection.html",
+    "public/Agent-Learning/Topics/Reflection-og-image.webp",
+    "public/Agent-Learning/Topics/ReAct-vs-PlanAct.html",
+    "public/Agent-Learning/Topics/ReAct-vs-PlanAct-og-image.webp",
+    "public/Agent-Learning/Topics/Planning.html",
+    "public/Agent-Learning/Topics/Planning-og-image.webp",
+    "public/Agent-Learning/Topics/Observability.html",
+    "public/Agent-Learning/Topics/Observability-og-image.webp",
+    "public/Agent-Learning/Topics/Multi-Agent-vs-Routing.html",
+    "public/Agent-Learning/Topics/Multi-Agent-vs-Routing-og-image.webp",
+    "public/Agent-Learning/Topics/Memory-og-image.webp",
+    "public/Agent-Learning/Topics/LLMClient-og-image.webp",
+    "public/Agent-Learning/Topics/Eval-Harness-og-image.webp",
+    "node_modules/hast-util-from-html/node_modules/vfile-message/readme.md",
+    "node_modules/fetch-ponyfill/node_modules/node-fetch/README.md",
+    "node_modules/fetch-ponyfill/node_modules/node-fetch/LICENSE.md",
+    "node_modules/hast-util-to-jsx-runtime/node_modules/property-information/readme.md",
+    "node_modules/vfile/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-raw/node_modules/@types/unist/README.md",
+    "node_modules/gray-matter/node_modules/js-yaml/README.md",
+    "node_modules/gray-matter/node_modules/js-yaml/CHANGELOG.md",
+    "node_modules/mdast-util-from-markdown/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-from-html/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-from-parse5/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-to-jsx-runtime/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-to-html/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-to-html/node_modules/property-information/readme.md",
+    "node_modules/mdast-util-mdx-jsx/node_modules/vfile-message/readme.md",
+    "node_modules/sass/node_modules/readdirp/README.md",
+    "node_modules/satori/node_modules/emoji-regex-xs/README.md",
+    "node_modules/hast-util-to-jsx-runtime/node_modules/vfile-message/readme.md",
+    "node_modules/hast-util-to-text/node_modules/@types/unist/README.md",
+    "node_modules/linebreak/node_modules/base64-js/README.md",
+    "node_modules/sass/node_modules/chokidar/README.md",
+    "node_modules/mdast-util-mdx-jsx/node_modules/@types/unist/README.md",
+    "node_modules/@esbuild/darwin-arm64/README.md",
+    "node_modules/mdast-util-to-markdown/node_modules/@types/unist/README.md",
+    "node_modules/rehype-mathjax/node_modules/hastscript/readme.md"
+  ]
 }
